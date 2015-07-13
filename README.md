@@ -1,6 +1,6 @@
 #东哥的移动开发经验漫谈
 
-<img src="http://www.fefork.com/images/me.jpg" width="120" height="120" style="border-radius:50%" />
+<img src="http://www.fefork.com/images/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
 ####本系列文章记录的是一名前端在移动开发的点滴，您可以通过以下方式联系到我：
 - 微博 [@聂微东](http://weibo.com/darrencode)
@@ -9,7 +9,8 @@
 - QQ群 214199415，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
 
 
-###内容
+##内容
+
 - [音频(audio)和视频(video)](multimedia.md)
 
 - [移动事件](event.md)
