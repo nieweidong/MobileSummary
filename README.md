@@ -9,28 +9,18 @@
 - QQ群 214199415，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
 
 
-##内容
+##内容列表
 
 - [音频(audio)和视频(video)](multimedia.md)
-
 - [移动事件](event.md)
-
 - [移动适配](adapter.md)
-
 - [CSS3](css3.md)
-
 - [Media query](mediaquery.md)
-
 - [FLexbox](flexbox.md)
-
 - [神奇的meta](meta.md)
-
 - [神奇webview](webview.md)
-
 - [HybridApp](hybrid.md)
-
 - [移动字体](font.md)
-
 - [移动跨域](cross.md)
 
 
