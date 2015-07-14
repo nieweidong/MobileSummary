@@ -2,7 +2,9 @@
 
 <img src="http://www.fefork.com/images/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
-####本系列文章记录的是一名前端在移动开发的点滴，您可以通过以下方式联系到我：
+> 本系列文章记录的是一名前端在移动开发的点滴
+
+####您可以通过以下方式联系到我：
 - 微博 [@聂微东](http://weibo.com/darrencode)
 - 个人Blog [fefok.com](http://www.fefork.com/)
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/)
