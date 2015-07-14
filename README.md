@@ -6,7 +6,7 @@
 - 微博 [@聂微东](http://weibo.com/darrencode)
 - 个人Blog [fefok.com](http://www.fefork.com/)
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/)
-- QQ群 214199415，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
+- QQ群 **214199415**，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
 
 
 ##内容列表
