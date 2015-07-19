@@ -1,4 +1,4 @@
-#东哥的移动开发经验漫谈
+# 东哥的移动开发经验漫谈
 
 <img src="http://www.fefork.com/images/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
@@ -9,7 +9,6 @@
 - 个人Blog [fefok.com](http://www.fefork.com/ "一枚Web技术领域的手艺人")
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
 - QQ群 **214199415**，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
-
 
 ##内容列表
 
