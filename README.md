@@ -19,7 +19,7 @@
 - [音频(audio)和视频(video)](multimedia.md)
 - [移动事件](event.md)
 - [移动适配](adapter.md)
-- [CSS3](css3.md)
+- [CSS3动画](css3.md)
 - [Media query](mediaquery.md)
 - [FLexbox](flexbox.md)
 - [神奇的meta](meta.md)
