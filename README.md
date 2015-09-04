@@ -1,6 +1,6 @@
 # 东哥的移动开发经验漫谈
 
-<img src="http://www.fefork.com/images/me.jpg" width="120" height="120" style="border-radius: 60px;" />
+<img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
 > 本系列文章记录了一名前端在移动开发的点滴
 
